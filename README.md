@@ -108,3 +108,7 @@ Sai số hiển thị là `||P_đặt − FK(IK(P_đặt))||`, dùng kiểm ch�
 - `tests/`: kiểm thử nghiệm hình học độc lập, IK/FK, quỹ đạo, CSV và tương tác giao diện.
 
 Tham khảo mô hình ràng buộc chiều dài và giao ba mặt cầu: [R. L. Williams II, Ohio University — The Delta Parallel Robot: Kinematics Solutions](https://people.ohio.edu/williams/html/PDF/DeltaKin.pdf). Tài liệu hoạt ảnh và điều khiển: [Matplotlib FuncAnimation](https://matplotlib.org/stable/api/_as_gen/matplotlib.animation.FuncAnimation.html), [Matplotlib widgets](https://matplotlib.org/stable/api/widgets_api.html).
+
+## Demo
+
+![Mô phỏng robot Delta](outputs/delta_demo.gif)
